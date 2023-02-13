@@ -9,6 +9,7 @@ Fluxus is an executor that doesnt require keys has auto inject auto execute
 5. Execute your script
 
 # Requirements
+- Windows 10/11 64 bit
 - [Visual Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe)
 
 # UI:
