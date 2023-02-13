@@ -2,7 +2,7 @@
 Fluxus is an executor that doesnt require keys has auto inject auto execute
 
 # 📁 〢 Setting up Fluxus
-1. Download the Fluxus
+1. Download the [Fluxus](https://github.com/DtKdPython/Fluxus/archive/refs/heads/main.zip)
 2. Extract the .zip file by right click on the zip and clicking 'Extract All...'
 3. Run the Fluxus.exe
 4. Launch your roblox game then click inject
