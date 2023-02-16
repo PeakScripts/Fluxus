@@ -18,5 +18,5 @@ Fluxus is an executor that doesnt require keys has auto inject auto execute
 ![image](https://user-images.githubusercontent.com/122708389/218480553-15258a4a-024c-4b70-b449-c55aa63a9ffd.png)
 
 
-# Need Help? Join you Discord https://discord.gg/xcCJw9EHph
+## Need Help? Join you Discord https://discord.gg/xcCJw9EHph
 
