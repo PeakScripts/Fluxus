@@ -1,7 +1,7 @@
 # Fluxus
 Fluxus is an executor that doesnt require keys has auto inject auto execute
 
-Tuturiol Video : https://www.youtube.com/watch?v=NyrR7hh-Wyo
+## Tuturiol Video : https://www.youtube.com/watch?v=NyrR7hh-Wyo
 
 # 📁 〢 Setting up Fluxus
 1. Download the [Fluxus](https://github.com/DtKdPython/Fluxus/archive/refs/heads/main.zip)
