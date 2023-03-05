@@ -7,9 +7,9 @@ Fluxus is an executor that doesnt require keys has auto inject auto execute
 1. Download the [Fluxus](https://github.com/DtKdPython/Fluxus/archive/refs/heads/main.zip)
 2. Extract the .zip file
 - How do i Extract a .zip file?
-   -Open File Explorer and find the zipped folder.
-   -To unzip the entire folder, right-click to select Extract All, and then follow the instructions.
-   -To unzip a single file or folder, double-click the zipped folder to open it. Then, drag or copy the item from the zipped folder to a new location.
+   1. Open File Explorer and find the zipped folder.
+   2. To unzip the entire folder, right-click to select Extract All, and then follow the instructions.
+   3. To unzip a single file or folder, double-click the zipped folder to open it. Then, drag or copy the item from the zipped folder to a new location.
 3. Run the Fluxus.exe
 4. Launch your roblox game then click inject
 5. Execute your script
