@@ -1,5 +1,5 @@
 # Fluxus
-Fluxus is an level 7 executor that has Minimalistic and Modern UI
+Fluxus is an level 8 executor that has Minimalistic and Modern UI
 
 ## Tuturiol Video : https://www.youtube.com/watch?v=NyrR7hh-Wyo
 
